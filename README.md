@@ -12,9 +12,6 @@ A console application for preparing images for training LoRA (Low-Rank Adaptatio
 - **Кратность 64**: Гарантирует, что обе стороны изображения будут кратны 64 пикселям  
   **64 Divisibility**: Ensures both sides of the image are divisible by 64 pixels
   
-- **Интеллектуальное кадрирование**: Центрированное обрезание изображений при необходимости  
-  **Smart Cropping**: Centered cropping of images when necessary
-  
 - **Опциональное отражение**: Возможность зеркального отражения всех изображений  
   **Optional Flipping**: Ability to flip all images horizontally
   
