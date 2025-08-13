@@ -35,6 +35,10 @@ A console application for preparing images for training LoRA (Low-Rank Adaptatio
 - **Платформа**: .NET 6.0 Runtime или выше ([скачать](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))  
   **Platform**: .NET 6.0 Runtime or higher ([download](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
 
+## Релизы / Releases
+Последнюю версию можно скачать на странице: / Latest version can be downloaded from:  
+📦 [https://github.com/jinyi-ru/DatasetPreparation/releases/tag/alpha](https://github.com/jinyi-ru/DatasetPreparation/releases/tag/alpha)
+
 ## Использование / Usage
 
 1. **Запустите приложение**  
