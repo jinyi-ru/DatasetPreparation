@@ -1,4 +1,4 @@
-# TImage Preprocessor for LoRA Training
+# Tiny Image Preprocessor for LoRA Training
 
 Консольное приложение для подготовки изображений к обучению LoRA (Low-Rank Adaptation) моделей. Автоматически обрабатывает изображения в папке, приводя их к размерам, кратным 64 пикселям - стандартному требованию для современных моделей стабильной диффузии.
 
@@ -34,7 +34,7 @@ A console application for preparing images for training LoRA (Low-Rank Adaptatio
 
 ## Релизы / Releases
 Последнюю версию можно скачать на странице: / Latest version can be downloaded from:  
-📦 [https://github.com/jinyi-ru/DatasetPreparation/releases/tag/alpha](https://github.com/jinyi-ru/DatasetPreparation/releases/tag/alpha)
+📦 [https://github.com/jinyi-ru/DatasetPreparation/releases](https://github.com/jinyi-ru/DatasetPreparation/releases)
 
 ## Использование / Usage
 
